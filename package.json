@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "plop": "^4.0.1",
+    "simple-git": "^3.24.0"
+  }
+}

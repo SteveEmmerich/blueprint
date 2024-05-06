@@ -1,0 +1,19 @@
+{
+    "name": "create-blueprint",
+    "description": "Creates a new blueprint directory structure",
+    "prompts": [
+      {
+        "type": "input",
+        "name": "blueprintName",
+        "message": "Enter the name of your blueprint (lowercase, kebab-case):"
+      },
+      {
+        "type": "input",
+        "name": "blueprintDescription",
+        "message": "Enter a brief description of your blueprint:"
+      }
+    ],
+    "actions": [], 
+    "files": []
+  }
+  
