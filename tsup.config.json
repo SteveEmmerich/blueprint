@@ -1,0 +1,8 @@
+{
+    "entry": ["src/index.ts"],  
+    "format": "cjs",  
+    "target": "es5", 
+    "clean": true,  
+    "sourceMap": true  
+  }
+  
